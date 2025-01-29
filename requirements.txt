@@ -1,0 +1,7 @@
+typing
+feedparser
+asyncio
+ollama
+playwright
+feedparser
+bs4
